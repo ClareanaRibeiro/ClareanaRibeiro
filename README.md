@@ -1,6 +1,8 @@
+## - 🙋‍ Olá!! Prazer, sou a **Clareana Ribeiro**!
+
+
 **Sobre mim:**
 
-- 🙋‍ Olá!! Prazer, sou a **Clareana Ribeiro**!
 - 🚀 Desenvolvedora Front-End Jr / Web Developer
 - 👩‍💻 Java Script  | HTML |  CSS3 
 - 💛 Aluna da Laboratória 8ª Geração
