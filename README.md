@@ -1,4 +1,4 @@
-## - 🙋‍ Olá!! Prazer, sou a **Clareana Ribeiro**!
+## 😁 Olá!! Prazer, sou a **Clareana Ribeiro**!
 
 
 **Sobre mim:**
@@ -7,7 +7,7 @@
 - 👩‍💻 Java Script  | HTML |  CSS3 
 - 💛 Aluna da Laboratória 8ª Geração e em busca da minha primeira oportunidade na área de tecnologia
 - 🎯 Em transição de carreira
-- 😃 Responsável, comprometida, determinada e em busca de novos desafios e aprendizagem
+- 🙋‍♀️ Responsável, comprometida, determinada e em busca de novos desafios e aprendizagem
 - ❤ Apaixonada por natureza, viagens, e conhecer novas culturas
 - 📫 Acesse meu LinkedIn [aqui](https://www.linkedin.com/in/clareanaribeiro/)
 
