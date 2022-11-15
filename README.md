@@ -7,6 +7,7 @@
 - 👩‍💻 Java Script  | HTML |  CSS3 
 - 💛 Aluna da Laboratória 8ª Geração
 - 🎯 Em transição de carreira
+- ❤ Apaixonada por natureza, viagens, e conhecer novas culturas
 - 📫 Acesse meu LinkedIn [aqui](https://www.linkedin.com/in/clareanaribeiro/)
 
 
