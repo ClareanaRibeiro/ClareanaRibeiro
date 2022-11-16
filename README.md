@@ -1,4 +1,4 @@
-## 😁 Olá!! Prazer, sou a **Clareana Ribeiro**!
+## 😁 **Olá**!! Prazer! Seja bem vindo(a) ao meu GitHub! 
 
 <a href='https://postimg.cc/q6cQJn1P' target='_blank'><img src='https://i.postimg.cc/6qgPhfnp/Banner-Git-Hub.png' border='0' alt='Banner-Git-Hub'/></a>
 
