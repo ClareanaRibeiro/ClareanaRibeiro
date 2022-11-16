@@ -1,5 +1,6 @@
 ## 😁 Olá!! Prazer, sou a **Clareana Ribeiro**!
 
+<a href='https://postimg.cc/q6cQJn1P' target='_blank'><img src='https://i.postimg.cc/q6cQJn1P/Banner-Git-Hub.png' border='0' alt='Banner-Git-Hub'/></a>
 
 **Sobre mim:**
 
