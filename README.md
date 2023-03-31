@@ -4,10 +4,11 @@
 
 **Sobre mim:**
 
-- 🚀 Desenvolvedora Front-End Jr / Web Developer
-- 👩‍💻 Java Script  | HTML |  CSS3 
-- 💛 Aluna da Laboratória 8ª Geração e em busca da minha primeira oportunidade na área de tecnologia
-- 🎯 Em transição de carreira
+- 🚀 Desenvolvedora Front-End Jr - Laboratória 8ª geração
+- 👩‍💻 Java Script  | HTML5 e CSS3 | UI/UX | Metodologias Ágeis
+- 🎯 Em transição de carreira e em busca da minha primeira oportunidade na área de tecnologia
+- 📚 Estudando Ciências da Computação (CC50 - Fundação Estudar) e muito mais...
+- 👀 Interessada em aprender sobre QA! 
 - 🙋‍♀️ Responsável, comprometida, determinada e em busca de novos desafios e aprendizagem
 - ❤ Apaixonada por natureza, viagens, e conhecer novas culturas
 - 📫 Acesse meu LinkedIn [aqui](https://www.linkedin.com/in/clareanaribeiro/)
