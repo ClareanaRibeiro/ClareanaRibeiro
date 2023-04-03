@@ -9,7 +9,7 @@
 - 🎯 Em transição de carreira e em busca da minha primeira oportunidade na área de tecnologia
 - 📚 Estudando Ciências da Computação (CC50 - Fundação Estudar) e muito mais...
 - 👀 Interessada em aprender sobre QA! 
-- 🙋‍♀️ Responsável, comprometida, determinada e em busca de novos desafios e aprendizagem
+- 🙋‍♀️ Responsável, comprometida, organizada e em busca de novos desafios e aprendizagem
 - ❤ Apaixonada por natureza, viagens, e conhecer novas culturas
 - 📫 Acesse meu LinkedIn [aqui](https://www.linkedin.com/in/clareanaribeiro/)
 
